@@ -1,0 +1,6 @@
+c:\users\local\documents\visual studio 2013\Projects\Nazajeciach\Nazajeciach\bin\Debug\Nazajeciach.exe.config
+c:\users\local\documents\visual studio 2013\Projects\Nazajeciach\Nazajeciach\obj\Debug\Nazajeciach.csprojResolveAssemblyReference.cache
+c:\users\local\documents\visual studio 2013\Projects\Nazajeciach\Nazajeciach\bin\Debug\Nazajeciach.exe
+c:\users\local\documents\visual studio 2013\Projects\Nazajeciach\Nazajeciach\bin\Debug\Nazajeciach.pdb
+c:\users\local\documents\visual studio 2013\Projects\Nazajeciach\Nazajeciach\obj\Debug\Nazajeciach.exe
+c:\users\local\documents\visual studio 2013\Projects\Nazajeciach\Nazajeciach\obj\Debug\Nazajeciach.pdb
