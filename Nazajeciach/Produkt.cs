@@ -7,7 +7,7 @@ using System.IO;
 
 namespace Nazajeciach
 {
-    class Produkt
+    class Produkt:ICloneable
     {
         private string Nazwa;
         private double CenaJednostkowa;
@@ -35,6 +35,11 @@ namespace Nazajeciach
         {
             Console.WriteLine("{0}, {1}, {2}",Nazwa,CenaJednostkowa,Ilosc);
         }
+        public Object Clone()
+        {
+            return MemberwiseClone();
+        }
+
        
     }
 }

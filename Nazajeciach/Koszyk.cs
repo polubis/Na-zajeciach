@@ -99,6 +99,11 @@ namespace Nazajeciach
             Zakupy.Clear();
             Zakupy = new List<Produkt>();
         }
-
+        public void KlonowanieProduktu()
+        {
+            int Indeks;
+            Console.WriteLine("Wpisz numer indeksu produktu , ktory chcesz skopiorwac");
+            Indeks = Convert.ToInt32(Console.ReadLine());
+        }
     }
 }
